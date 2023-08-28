@@ -1,0 +1,8 @@
+**Browse a dict**
+**Merge two dicts**
+**Sort a dict by its keys**
+**Get isolate keys of a dict**
+**Get isolate values of a dict**
+**Get items (key, value)**
+**Get default value for missing keys**
+**Sort a list of similar dicts by a key of this object**
