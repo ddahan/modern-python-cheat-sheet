@@ -35,11 +35,6 @@
                 //*********************************************************************
                 // editor
                 //*********************************************************************
-                "editor.rulers": [
-                    90
-                ],
-                "editor.wordWrap": "wordWrapColumn",
-                "editor.wordWrapColumn": 90,
                 "editor.defaultFormatter": null, // overrided per language
                 "editor.tabSize": 2,
                 "editor.formatOnSave": true,
@@ -59,7 +54,6 @@
                 ], // disable linting as it would be redundant with Ruff (but keeps other 
                 "python.pythonPath": "/usr/local/bin/python",
                 "python.analysis.autoImportCompletions": true,
-
                 //*********************************************************************
                 // Per-language (especially for formatters)
                 //*********************************************************************
