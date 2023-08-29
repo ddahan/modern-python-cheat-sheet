@@ -17,11 +17,8 @@
             "extensions": [
                 "ms-python.python",
                 "ms-python.vscode-pylance",
-                "ms-toolsai.jupyter",
-                "ms-python.black-formatter@prerelease",
-                "charliermarsh.ruff@prerelease",
-                "tamasfe.even-better-toml",
-                "yzhang.markdown-all-in-one"
+                "ms-python.black-formatter",
+                "ms-toolsai.jupyter"
             ],
             "settings": {
                 //*********************************************************************
@@ -29,14 +26,15 @@
                 //*********************************************************************
                 "files.insertFinalNewline": true,
                 "files.exclude": {
-                    "**/__pycache__": true,
-                    "**/.ruff_cache": true
+                    "**/__pycache__": true
                 },
                 //*********************************************************************
                 // editor
                 //*********************************************************************
                 "editor.defaultFormatter": null, // overrided per language
-                "editor.tabSize": 2,
+                "editor.detectIndentation": false,
+                "editor.tabSize": 4,
+                "editor.indentSize": "tabSize",
                 "editor.formatOnSave": true,
                 //*********************************************************************
                 // color customizations
@@ -48,21 +46,20 @@
                 //*********************************************************************
                 // python
                 //*********************************************************************
-                "python.languageServer": "Pylance", // used for import suggestions
-                "python.analysis.ignore": [
-                    "*"
-                ], // disable linting as it would be redundant with Ruff (but keeps other 
+                "python.languageServer": "Pylance",
                 "python.pythonPath": "/usr/local/bin/python",
+                "python.analysis.typeCheckingMode": "strict",
                 "python.analysis.autoImportCompletions": true,
                 //*********************************************************************
-                // Per-language (especially for formatters)
+                // notebooks
+                //*********************************************************************
+                "notebook.formatOnSave.enabled": true,
+                //*********************************************************************
+                // Per-language settings
                 //*********************************************************************
                 "[python]": {
                     "editor.defaultFormatter": "ms-python.black-formatter",
-                    "editor.formatOnSave": true,
-                    "editor.codeActionsOnSave": {
-                        "source.organizeImports": true
-                    }
+                    "editor.formatOnSave": true
                 }
             }
         }

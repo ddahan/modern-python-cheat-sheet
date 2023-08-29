@@ -8,15 +8,8 @@ authors = ["David Dahan <david.dahan3@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "3.11.5"
-ruff = "*"        # https://github.com/charliermarsh/ruff
 ipdb = "*"        # https://github.com/gotcha/ipdb
 ipykernel = "*"   # https://github.com/ipython/ipykernel
-
-[tool.ruff]
-target-version = "py311"
-extend-exclude = ["migrations", "__pycache__"]
-per-file-ignores = {}
-
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
