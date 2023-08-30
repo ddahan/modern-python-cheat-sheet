@@ -6,3 +6,6 @@
 **Get items (key, value)**
 **Get default value for missing keys**
 **Sort a list of similar dicts by a key of this object**
+
+
+New syntax for merging
