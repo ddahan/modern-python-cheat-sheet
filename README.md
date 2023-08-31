@@ -4,11 +4,11 @@
 
 ## Why another cheat sheet?
 
-There exists many available Python cheet sheats on the web. But this one:
-- Deals with Modern Python (3.10+) only
+There exists many available Python cheet sheets on the web. But this one:
+- Focuses exclusively on Modern Python (3.10+)
 - Has strict type checking enabled
-- Is fully integrated with VS Code and Jupyter, which leads to many advantages (see below)
-- Is forkable so that you can customise it and make it yours. Any cheat sheet should reflects personal knowledge at a current moment.
+- Is fully integrated with VS Code and Jupyter, offering numerous advantages (see below)
+- Is forkable, allowing you to customize it to reflect your current level of knowledge. Every cheat sheet should be a snapshot of one's personal knowledge at a given time.
 
 ## Why using VS Code and Jupyter for a cheat sheet?
 
@@ -19,10 +19,10 @@ There exists many available Python cheet sheats on the web. But this one:
 
 
 ## How to use it yourself?
-This project can be used as a base for your personal cheat sheet too. For this:
+You can use this project as a foundation for your own personal cheat sheet. To do so:
 
 - Fork this project
-- Install it or your own machine by your own means, or even better, use the `.devcontainer.json` file to create a [devcontainer](https://code.visualstudio.com/docs/devcontainers/containers). This way, you'll have a 0-config installation.
+- Install it on your own machine using your preferred methods, or better yet, use the `.devcontainer.json` file to create a [devcontainer](https://code.visualstudio.com/docs/devcontainers/containers). This approach provides a zero-configuration installation.
 
 ## Roadmap
 
@@ -46,7 +46,7 @@ This project can be used as a base for your personal cheat sheet too. For this:
 
 ## Inspiration
 
-These projects has been extensively used to create this cheat sheet:
+These projects have been referenced used to create this cheat sheet:
 
 - [Intermediate Python](https://book.pythontips.com/en/latest/)
 - [Mypy cheat sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
