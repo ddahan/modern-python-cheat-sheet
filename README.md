@@ -48,6 +48,7 @@ You can use this project as a foundation for your own personal cheat sheet. To d
 - [ ] Error handling
 - [ ] Arithmetics
 - [ ] More advanced type hints
+- [ ] [Design patterns](https://refactoring.guru/design-patterns/catalog)
 - [ ] Some external libs (structlog, ...)
 - [ ] See [Python Cookbook Jupyter Notebook](https://github.com/acheamponge/Python-Cookbook-3rd-edition-JupyterNotebook-Code)
 - [ ] See [30 Helpful Python Snippets](https://towardsdatascience.com/30-helpful-python-snippets-that-you-can-learn-in-30-seconds-or-less-69bb49204172)
@@ -56,6 +57,7 @@ You can use this project as a foundation for your own personal cheat sheet. To d
 - [ ] Add screen presentation
 - [ ] Add a TOC to this file for easier access to sections
 - [ ] Use Ruff instead of Pylance (as soon as it's [compatible with Junyper](https://github.com/astral-sh/ruff/issues/5188))
+- [ ] Fix issue which require a reload after first devcontainer installation
 
 ## Inspiration
 
