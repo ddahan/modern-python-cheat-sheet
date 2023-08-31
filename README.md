@@ -1,6 +1,12 @@
-# Modern Python Cheat Sheet
+<img src="https://github.com/ddahan/modern-python-cheat-sheet/blob/main/resources/logo/logo.png?raw=true"
+     alt="Logo"
+     style="float: left; margin-right: 10px;" 
+     />
 
-**[WORK IN PROGRESS]**
+
+<p style="text-align: center; font-size: 20px">
+Work in progress ...
+</p>
 
 ## Why another cheat sheet?
 
