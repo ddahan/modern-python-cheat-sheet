@@ -15,7 +15,7 @@ There exists many available Python cheet sheets on the web. But this one:
 - Why use anything else than your IDE to read and write code? You get same syntax colors, same shortcuts, auto complete, type inference, etc. You feel at home.
 - Unlike (most) websites or books, you can customize code snippets and make them yours.
 - Code snippets can be directly executed. Don't trust the code comments to see the program output.
-- Possible 0-config by having an isolated installation in a dedicated Docker container (cf. below)
+- Possible 0-config by having an isolated installation in a dedicated Docker container (cf. below). It includes linting and type checking with Pylance, and auto-formatting with Black.
 
 
 ## How to use it yourself?
@@ -36,9 +36,9 @@ You can use this project as a foundation for your own personal cheat sheet. To d
 
 
 **To Do**
-- [ ] dicts
+- [ ] Dicts
 - [ ] OOP
-- [ ] dataclasses
+- [ ] Dataclasses
 - [ ] Error handling
 - [ ] Arithmetics
 - [ ] More advanced type hints
@@ -46,7 +46,7 @@ You can use this project as a foundation for your own personal cheat sheet. To d
 
 ## Inspiration
 
-These projects have been referenced used to create this cheat sheet:
+These projects have been extensively referenced used to create this cheat sheet:
 
 - [Intermediate Python](https://book.pythontips.com/en/latest/)
 - [Mypy cheat sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
