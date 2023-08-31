@@ -1,9 +1,9 @@
 [tool]
 
 [tool.poetry]
-name = "jupysnips"
+name = "Modern Python Cheat Sheet"
 version = "1.0.0"
-description = "Jupyter snippets for Python 3"
+description = "Modern Python Cheat Sheet"
 authors = ["David Dahan <david.dahan3@gmail.com>"]
 
 [tool.poetry.dependencies]

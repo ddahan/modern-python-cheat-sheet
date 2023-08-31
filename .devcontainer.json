@@ -1,5 +1,5 @@
 {
-    "name": "🪐 jupysnips",
+    "name": "🪐 Modern Python Cheat Sheet",
     "image": "python:3.11.5-bullseye",
     "containerEnv": {
         "PYTHONUNBUFFERED": "1",
