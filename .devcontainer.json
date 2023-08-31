@@ -18,7 +18,8 @@
                 "ms-python.python",
                 "ms-python.vscode-pylance",
                 "ms-python.black-formatter",
-                "ms-toolsai.jupyter"
+                "ms-toolsai.jupyter",
+                "tamasfe.even-better-toml"
             ],
             "settings": {
                 //*********************************************************************
