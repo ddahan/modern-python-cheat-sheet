@@ -35,7 +35,7 @@ You can use this project as a foundation for your own personal cheat sheet. To d
 - [x] Functional tools
 
 
-**To Do**
+**To Do (content)**
 - [ ] Dicts
 - [ ] OOP
 - [ ] Dataclasses
@@ -43,6 +43,12 @@ You can use this project as a foundation for your own personal cheat sheet. To d
 - [ ] Arithmetics
 - [ ] More advanced type hints
 - [ ] Some external libs (structlog, ...)
+- [ ] See [Python Cookbook Jupyter Notebook](https://github.com/acheamponge/Python-Cookbook-3rd-edition-JupyterNotebook-Code)
+- [ ] See [30 Helpful Python Snippets](https://towardsdatascience.com/30-helpful-python-snippets-that-you-can-learn-in-30-seconds-or-less-69bb49204172)
+
+**To Do (features)**
+- [ ] Rename the repo
+- [ ] Use Ruff instead of Pylance (as soon as it's [compatible with Junyper](https://github.com/astral-sh/ruff/issues/5188))
 
 ## Inspiration
 
@@ -50,4 +56,3 @@ These projects have been extensively referenced used to create this cheat sheet:
 
 - [Intermediate Python](https://book.pythontips.com/en/latest/)
 - [Mypy cheat sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
-- [Python Cookbook Jupyter Notebook](https://github.com/acheamponge/Python-Cookbook-3rd-edition-JupyterNotebook-Code)
