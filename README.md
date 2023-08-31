@@ -12,9 +12,9 @@ There exists many available Python cheet sheets on the web. But this one:
 
 ## Why using VS Code and Jupyter for a cheat sheet?
 
-- Why use anything else than your IDE to read and write code ? (You get same syntax colors, same shortcuts, type inference, etc.). You feel at home.
+- Why use anything else than your IDE to read and write code? You get same syntax colors, same shortcuts, auto complete, type inference, etc. You feel at home.
 - Unlike (most) websites or books, you can customize code snippets and make them yours.
-- Code snippets can be directly executed. Don't rely on comments to see the program output.
+- Code snippets can be directly executed. Don't trust the code comments to see the program output.
 - Possible 0-config by having an isolated installation in a dedicated Docker container (cf. below)
 
 
