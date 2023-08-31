@@ -1,4 +1,4 @@
-# Python Modern Cheat Sheet
+# Modern Python Cheat Sheet
 
 **[WORK IN PROGRESS]**
 
@@ -47,6 +47,7 @@ You can use this project as a foundation for your own personal cheat sheet. To d
 - [ ] See [30 Helpful Python Snippets](https://towardsdatascience.com/30-helpful-python-snippets-that-you-can-learn-in-30-seconds-or-less-69bb49204172)
 
 **To Do (features)**
+- [ ] Add a TOC to this file for easier access to sections
 - [ ] Use Ruff instead of Pylance (as soon as it's [compatible with Junyper](https://github.com/astral-sh/ruff/issues/5188))
 
 ## Inspiration
