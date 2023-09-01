@@ -1,6 +1,8 @@
 - Swap values
 - Chain Comparison
 - Multiple init
-- Type casting
+- Type conversion
 - Dealing with files
 - Difference == and is
+- File opening
+- assertions

@@ -1,3 +1,5 @@
 - pprint
 - breakpoints
 - timeit
+- ipython
+- debugging

@@ -10,8 +10,8 @@ Work in progress ...
 
 ## Why another cheat sheet?
 
-There exists many available Python cheet sheets on the web. But this one:
-- Focuses exclusively on Modern Python (3.10+)
+There exists many available Python cheat sheets on the web. But this one:
+- Focuses exclusively on Modern Python (3.11+)
 - Has strict type checking enabled
 - Is fully integrated with VS Code and Jupyter, offering numerous advantages (see below)
 - Is forkable, allowing you to customize it to reflect your current level of knowledge. Every cheat sheet should be a snapshot of one's personal knowledge at a given time.
@@ -19,33 +19,30 @@ There exists many available Python cheet sheets on the web. But this one:
 ## Why using VS Code and Jupyter for a cheat sheet?
 
 - Why use anything else than your IDE to read and write code? You get same syntax colors, same shortcuts, auto complete, type inference, etc. You feel at home.
-- Unlike (most) websites or books, you can customize code snippets and make them yours.
-- Code snippets can be directly executed. Don't trust the code comments to see the program output.
+- Unlike (most) websites or books, you can customize code snippets and make them yours, after having forked the project.
+- Code snippets can be directly executed. Don't trust the code comments to know the program output.
 - Possible 0-config by having an isolated installation in a dedicated Docker container (cf. below). It includes linting and type checking with Pylance, and auto-formatting with Black.
 
 
 ## How to use it yourself?
+
 You can use this project as a foundation for your own personal cheat sheet. To do so:
 
 - Fork this project
 - Install it on your own machine using your preferred methods, or better yet, use the `.devcontainer.json` file to create a [devcontainer](https://code.visualstudio.com/docs/devcontainers/containers). This approach provides a zero-configuration installation.
 
+If you don't want to install the project, you can just read the notebooks on github.com
+
+## Contribution
+
+Since a cheat sheet is personal first, I don't expect new content to be proposed. However, if you find a mistake, something obviously missing, or anything than can help others, feel free to open an issue or a PR.
+
 ## Roadmap
-
-**Done**
-- [x] Basics of language
-- [x] Less basic techniques (unpacking, sets, ternary operator)
-- [x] Collection module
-- [x] Type hints basics
-- [x] Iteration / Generation
-- [x] Functional tools
-
 
 **To Do (content)**
 - [ ] Dicts
 - [ ] OOP
 - [ ] Dataclasses
-- [ ] Error handling
 - [ ] Arithmetics
 - [ ] More advanced type hints
 - [ ] [Design patterns](https://refactoring.guru/design-patterns/catalog)
