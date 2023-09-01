@@ -46,7 +46,7 @@ Since a cheat sheet is personal first, I don't expect new content to be proposed
 - [ ] Arithmetics
 - [ ] More advanced type hints
 - [ ] [Design patterns](https://refactoring.guru/design-patterns/catalog)
-- [ ] Some external libs (structlog, ...)
+- [ ] Some external libs ?
 - [ ] See [Python Cookbook Jupyter Notebook](https://github.com/acheamponge/Python-Cookbook-3rd-edition-JupyterNotebook-Code)
 - [ ] See [30 Helpful Python Snippets](https://towardsdatascience.com/30-helpful-python-snippets-that-you-can-learn-in-30-seconds-or-less-69bb49204172)
 
