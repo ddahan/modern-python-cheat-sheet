@@ -18,7 +18,7 @@ There exists many available Python cheat sheets on the web. But this one:
 
 ## Why using VS Code and Jupyter for a cheat sheet?
 
-- Why use anything else than your IDE to read and write code? You get same syntax colors, same shortcuts, auto complete, type inference, etc. You feel at home.
+- Why use anything else than your IDE to read and write code? You get same syntax colors, same shortcuts, auto complete, type inference, linting, auto-formatting, etc. You feel at home.
 - Unlike (most) websites or books, you can customize code snippets and make them yours, after having forked the project.
 - Code snippets can be directly executed. Don't trust the code comments to know the program output.
 - Possible 0-config by having an isolated installation in a dedicated Docker container (cf. below). It includes linting and type checking with Pylance, and auto-formatting with Black.
@@ -52,6 +52,7 @@ Since a cheat sheet is personal first, I don't expect new content to be proposed
 
 **To Do (features)**
 - [ ] Add screen presentation
+- [ ] Add internal cross references (for example for "comprehensions" because they can be at multiple places in the sheet)
 - [ ] Add a TOC to this file for easier access to sections
 - [ ] Use Ruff instead of Pylance (as soon as it's [compatible with Junyper](https://github.com/astral-sh/ruff/issues/5188))
 - [ ] Fix issue which require a reload after first devcontainer installation

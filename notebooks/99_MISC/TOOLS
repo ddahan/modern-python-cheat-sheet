@@ -3,3 +3,4 @@
 - timeit
 - ipython
 - debugging
+- poetry ? (opiniotated) Maybe just virtual envs
