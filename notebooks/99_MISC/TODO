@@ -1,10 +1,9 @@
-- Swap values
 - Chain Comparison
+- Comparison with multiple items (3 < 4 < 5)
 - Multiple init
 - Type conversion
 - Dealing with files
 - Difference == and is
-- File opening
 - assertions
 - script with __main__
 - Context managers

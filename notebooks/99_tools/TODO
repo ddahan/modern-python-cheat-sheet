@@ -1,3 +1,5 @@
 - poetry ? (opiniotated) Maybe just virtual envs
-- json to dict & dict to json (serialization and deserialization) - file parsing
-- external tools? (structlog / pydantic / httpx)
+- external tools?
+    - structlog
+    - pydantic
+    - httpx
