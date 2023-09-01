@@ -6,3 +6,5 @@
 - Difference == and is
 - File opening
 - assertions
+- script with __main__
+- Context managers
