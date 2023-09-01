@@ -1,8 +1,0 @@
-- pprint
-- breakpoints
-- timeit
-- ipython
-- debugging
-- poetry ? (opiniotated) Maybe just virtual envs
-- profiling: python -m cProfile my_script.py
-- json to dict & dict to json (serialization and deserialization)

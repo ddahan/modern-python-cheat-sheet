@@ -1,0 +1,3 @@
+- python -m cProfile my_script.py
+- memory
+- time (+ decorator)

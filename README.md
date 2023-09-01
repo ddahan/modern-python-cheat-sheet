@@ -39,16 +39,10 @@ Since a cheat sheet is personal first, I don't expect new content to be proposed
 
 ## Roadmap
 
-**To Do (content)**
-- [ ] Dicts
-- [ ] OOP
-- [ ] Dataclasses
-- [ ] Arithmetics
-- [ ] More advanced type hints
-- [ ] [Design patterns](https://refactoring.guru/design-patterns/catalog)
-- [ ] Some external libs ?
+**To check for content**
+- *See each sections for content to fill (in the title, or in TODO file)*
 - [ ] See [Python Cookbook Jupyter Notebook](https://github.com/acheamponge/Python-Cookbook-3rd-edition-JupyterNotebook-Code)
-- [ ] See [30 Helpful Python Snippets](https://towardsdatascience.com/30-helpful-python-snippets-that-you-can-learn-in-30-seconds-or-less-69bb49204172)
+- [ ] See [30 Helpful Python Snippets](https://morioh.com/a/271bc88c0100/30-helpful-python-snippets-you-should-learn-today)
 
 **To Do (features)**
 - [ ] Add screen presentation
