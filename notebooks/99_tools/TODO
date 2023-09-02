@@ -1,5 +1,0 @@
-- poetry ? (opiniotated) Maybe just virtual envs
-- external tools?
-    - structlog
-    - pydantic
-    - httpx

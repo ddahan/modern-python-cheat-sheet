@@ -43,6 +43,8 @@ Since a cheat sheet is personal first, I don't expect new content to be proposed
 - *See each sections for content to fill (in the title, or in TODO file)*
 - [ ] See [Python Cookbook Jupyter Notebook](https://github.com/acheamponge/Python-Cookbook-3rd-edition-JupyterNotebook-Code)
 - [ ] See [30 Helpful Python Snippets](https://morioh.com/a/271bc88c0100/30-helpful-python-snippets-you-should-learn-today)
+- [ ] See [The complet guide to Python](https://www.youtube.com/watch?v=mDKM-JtUhhc)
+- [ ] See [Nooby habits](https://www.youtube.com/watch?v=qUeud6DvOWI)
 
 **To Do (features)**
 - [ ] Add screen presentation
