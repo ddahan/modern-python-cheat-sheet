@@ -47,6 +47,7 @@ Since a cheat sheet is personal first, I don't expect new content to be proposed
 - [ ] See [Nooby habits](https://www.youtube.com/watch?v=qUeud6DvOWI)
 
 **To Do (features)**
+- [ ] Clean "don't do this" syntax
 - [ ] Add screen presentation
 - [ ] Add internal cross references (for example for "comprehensions" because they can be at multiple places in the sheet)
 - [ ] Add a TOC to this file for easier access to sections
@@ -59,4 +60,4 @@ These projects have been referenced to create this cheat sheet:
 
 - [Intermediate Python](https://book.pythontips.com/en/latest/)
 - [Mypy cheat sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
-- [25 nooby Python habits you need to ditch](https://www.youtube.com/watch?v=qUeud6DvOWI) 
+- [25 nooby Python habits you need to ditch](https://www.youtube.com/watch?v=qUeud6DvOWI)  [+ this one](https://www.youtube.com/watch?v=E8NijUYfyus)
