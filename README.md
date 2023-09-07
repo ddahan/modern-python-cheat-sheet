@@ -57,7 +57,7 @@ Since a cheat sheet is personal first, I don't expect new content to be proposed
 
 ## Inspiration
 
-These projects have been referenced to create this cheat sheet:
+When not using chatGPT, these projects have been referenced to create this cheat sheet:
 
 - [Intermediate Python](https://book.pythontips.com/en/latest/)
 - [Mypy cheat sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
