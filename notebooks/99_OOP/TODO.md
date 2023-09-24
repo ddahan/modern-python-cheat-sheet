@@ -62,11 +62,3 @@
     - What are they and when to use them
 3. **Multiple Dispatch**
     - Overloading functions based on argument types
-
-#### Chapter 8: Project and Exercises
-1. **Mini Project**
-    - Building a small OOP-based project to integrate learning
-2. **Exercises**
-    - Practice problems covering all aspects learned
-3. **Code Review**
-    - Reviewing best practices and common pitfalls

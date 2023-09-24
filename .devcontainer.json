@@ -1,6 +1,6 @@
 {
     "name": "🪐 Modern Python Cheat Sheet",
-    "image": "python:3.11.5-bullseye",
+    "image": "python:3.11-bookworm",
     "containerEnv": {
         "PYTHONUNBUFFERED": "1",
         "PYTHONBREAKPOINT": "ipdb.set_trace"
