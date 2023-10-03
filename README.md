@@ -11,7 +11,7 @@ Work in progress ...
 ## Why another cheat sheet?
 
 There exists many available Python cheat sheets on the web. But this one:
-- Focuses exclusively on **modern Python** (3.11+)
+- Focuses exclusively on **latest Python version** (currently: 3.12)
 - Is for **intermediate level** (don't expect "what is a loop" section)
 - Has **strict type** checking enabled
 - Is fully integrated with **VS Code and Jupyter** (see below the advantages)

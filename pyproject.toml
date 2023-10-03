@@ -7,7 +7,7 @@ description = "Modern Python Cheat Sheet"
 authors = ["David Dahan <david.dahan3@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "3.11.*"
+python = "3.12.*"
 ipdb = "*"        # https://github.com/gotcha/ipdb
 ipykernel = "*"   # https://github.com/ipython/ipykernel
 
