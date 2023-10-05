@@ -13,6 +13,7 @@ target-version = ["py312"]
 python = "3.12.*"
 ipdb = "*"        # https://github.com/gotcha/ipdb
 ipykernel = "*"   # https://github.com/ipython/ipykernel
+pydantic = "*"    # https://github.com/pydantic/pydantic
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
