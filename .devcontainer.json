@@ -17,8 +17,9 @@
             "extensions": [
                 "ms-python.python",
                 "ms-python.vscode-pylance",
-                "ms-python.black-formatter",
+                "ms-python.black-formatter@prerelease",
                 "ms-toolsai.jupyter",
+                "ms-toolsai.jupyter-keymap",
                 "tamasfe.even-better-toml"
             ],
             "settings": {

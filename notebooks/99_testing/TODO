@@ -1,2 +1,5 @@
-- unittest (+ pytest)
+- pytest
+[] mocks examples (magicMocks)
+[] magicMock
+
 - mock / MagicMock

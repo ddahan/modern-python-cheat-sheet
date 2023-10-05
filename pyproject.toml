@@ -14,6 +14,7 @@ python = "3.12.*"
 ipdb = "*"        # https://github.com/gotcha/ipdb
 ipykernel = "*"   # https://github.com/ipython/ipykernel
 pydantic = "*"    # https://github.com/pydantic/pydantic
+pytest = "*"      # https://github.com/pytest-dev/pytest
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

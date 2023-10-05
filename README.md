@@ -10,11 +10,12 @@ Work in progress ...
 
 ## Why another cheat sheet?
 
-There exists many available Python cheat sheets on the web. But this one:
+There exists many available Python courses or cheat sheets on the web. But this one:
 - Focuses exclusively on **latest Python version** (currently: 3.12)
-- Is for **intermediate level** (don't expect "what is a loop" section)
-- Has **strict type** checking enabled
-- Is fully integrated with **VS Code and Jupyter** (see below the advantages)
+- Is for **intermediate level**
+- Uses Python type hints (**strict type** is enabled)
+- Is fully integrated with **VS Code and Jupyter** (see below for the advantages)
+- Is a mix of a course and a cheat sheet (minimal explanations)
 - Is forkable, allowing you to customize it to reflect your current level of knowledge (every cheat sheet should be a snapshot of one's personal knowledge at a given time).
 
 ## Why using VS Code and Jupyter for a cheat sheet?

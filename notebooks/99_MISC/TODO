@@ -2,3 +2,4 @@
 - eval
 - __init__ method in modules
 - argparse
+- walrus operator
