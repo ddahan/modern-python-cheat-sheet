@@ -52,6 +52,13 @@
                 "python.analysis.typeCheckingMode": "strict",
                 "python.analysis.autoImportCompletions": true,
                 //*********************************************************************
+                // black
+                //*********************************************************************
+                "black-formatter.args": [
+                    "--config",
+                    "pyproject.toml"
+                ],
+                //*********************************************************************
                 // notebooks
                 //*********************************************************************
                 "notebook.formatOnSave.enabled": true,
