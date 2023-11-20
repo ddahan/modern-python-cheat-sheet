@@ -22,55 +22,7 @@
                 "ms-toolsai.jupyter-keymap",
                 "tamasfe.even-better-toml"
             ],
-            "settings": {
-                //*********************************************************************
-                // general
-                //*********************************************************************
-                "files.insertFinalNewline": true,
-                "files.exclude": {
-                    "**/__pycache__": true
-                },
-                //*********************************************************************
-                // editor
-                //*********************************************************************
-                "editor.defaultFormatter": null, // overrided per language
-                "editor.detectIndentation": false,
-                "editor.tabSize": 4,
-                "editor.indentSize": "tabSize",
-                "editor.formatOnSave": true,
-                //*********************************************************************
-                // color customizations
-                //*********************************************************************
-                "workbench.colorCustomizations": {
-                    "titleBar.activeBackground": "#ffa116",
-                    "titleBar.activeForeground": "#ffffff"
-                },
-                //*********************************************************************
-                // python
-                //*********************************************************************
-                "python.languageServer": "Pylance",
-                "python.pythonPath": "/usr/local/bin/python",
-                "python.analysis.typeCheckingMode": "strict",
-                "python.analysis.autoImportCompletions": true,
-                //*********************************************************************
-                // black
-                //*********************************************************************
-                "black-formatter.args": [
-                    "--config",
-                    "pyproject.toml"
-                ],
-                //*********************************************************************
-                // notebooks
-                //*********************************************************************
-                "notebook.formatOnSave.enabled": true,
-                //*********************************************************************
-                // Per-language settings
-                //*********************************************************************
-                "[python]": {
-                    "editor.defaultFormatter": "ms-python.black-formatter",
-                    "editor.formatOnSave": true
-                }
-            }
+            "settings": {}
         }
     }
 }
