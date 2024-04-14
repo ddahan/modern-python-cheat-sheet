@@ -1,5 +1,4 @@
-- pytest
-[] mocks examples (magicMocks)
-[] magicMock
+- unittest (remove pytest as it is too not stdlib?)
 
-- mock / MagicMock
+[] mocks examples
+[] magicMock
