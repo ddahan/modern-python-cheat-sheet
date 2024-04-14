@@ -25,6 +25,7 @@
     // python
     //*********************************************************************
     "python.languageServer": "Pylance",
+    "python.defaultInterpreterPath": "/usr/local/bin/python",
     "python.analysis.typeCheckingMode": "strict",
     "python.analysis.autoImportCompletions": true,
     //*********************************************************************
