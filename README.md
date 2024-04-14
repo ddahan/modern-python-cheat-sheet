@@ -13,9 +13,9 @@ Work in progress ...
 There exists many available Python courses or cheat sheets on the web. But this one:
 - Focuses exclusively on **latest Python version** (currently: 3.12)
 - Is for **intermediate level**
+- Is a mix of a course and a cheat sheet (minimal explanations - with moe details for advanced concepts)
 - Uses Python type hints (**strict type** is enabled)
 - Is fully integrated with **VS Code and Jupyter** (see below for the advantages)
-- Is a mix of a course and a cheat sheet (minimal explanations)
 - Is forkable, allowing you to customize it to reflect your current level of knowledge (every cheat sheet should be a snapshot of one's personal knowledge at a given time).
 
 ## Why using VS Code and Jupyter for a cheat sheet?
@@ -54,7 +54,6 @@ Since a cheat sheet is personal first, I don't expect new content to be proposed
 - [ ] Add internal cross references (for example for "comprehensions" because they can be at multiple places in the sheet)
 - [ ] Add a TOC to this file for easier access to sections
 - [ ] Use Ruff instead of Pylance (as soon as it's [compatible with Junyper](https://github.com/astral-sh/ruff/issues/5188))
-- [ ] Fix issue which require a reload after first devcontainer installation
 
 ## Inspiration
 
