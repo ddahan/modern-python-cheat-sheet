@@ -5,6 +5,7 @@ name = "Modern Python Cheat Sheet"
 version = "1.0.0"
 description = "Modern Python Cheat Sheet"
 authors = ["David Dahan <david.dahan3@gmail.com>"]
+package-mode = false
 
 [tool.black]
 target-version = ["py312"]
