@@ -1,5 +1,3 @@
-[tool]
-
 [tool.poetry]
 name = "Modern Python Cheat Sheet"
 version = "1.0.0"
@@ -12,10 +10,12 @@ target-version = ["py312"]
 
 [tool.poetry.dependencies]
 python = "3.12.*"
-ipdb = "*"        # https://github.com/gotcha/ipdb
-ipykernel = "*"   # https://github.com/ipython/ipykernel
 pydantic = "*"    # https://github.com/pydantic/pydantic
-pytest = "*"      # https://github.com/pytest-dev/pytest
+
+[tool.poetry.group.dev.dependencies]
+ipdb = "*"      # https://github.com/gotcha/ipdb
+pytest = "*"    # https://github.com/pytest-dev/pytest
+ipykernel = "*" # https://github.com/ipython/ipykernel
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
