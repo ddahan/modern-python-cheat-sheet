@@ -8,7 +8,7 @@
     "onCreateCommand": "poetry config virtualenvs.create false && poetry install",
     "features": {
         "ghcr.io/ddahan/feature-starter/poetry:latest": {
-            "version": "1.8.2"
+            "version": "1.8.4"
         },
         "ghcr.io/ddahan/feature-starter/custom_bashrc:latest": {}
     },
