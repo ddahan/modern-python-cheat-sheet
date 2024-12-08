@@ -1,0 +1,2 @@
+- autocommit
+- would it make sense to use postgres in the docker container, to have more relevant examples?
